@@ -1,0 +1,41 @@
+10
+3
+    BohemianRhapsody
+    UnderPressure
+    RadioGaGa
+2
+    Imagine
+    Yesterday
+4
+    Thunderstruck
+    BackInBlack
+    HellsBells
+    TNT
+5
+    TheScientist
+    FixYou
+    Yellow
+    Clocks
+    VivaLaVida
+3
+    SultansOfSwing
+    MoneyForNothing
+    WalkOfLife
+2
+    PurpleRain
+    Kiss
+4
+    HotelCalifornia
+    Desperado
+    TakeItEasy
+    LyinEyes
+3
+    One
+    WithOrWithoutYou
+    Bad
+2
+    SmoothCriminal
+    Thriller
+2
+    TuttaVita
+    Azzurro
