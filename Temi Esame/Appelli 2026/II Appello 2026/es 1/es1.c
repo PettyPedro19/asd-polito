@@ -78,7 +78,7 @@ float ProcessItems(Item *vet, int n, Key *keys, Item *maxp)
         // Alloco lo spazio
         (*keys) = realloc((*keys), l * sizeof(char));
         // aggancio in coda
-        strcpy((*keys), (*keys), vet[i].name);
+        strcpy((*keys), vet[i].name);
     }
 
     return sum;
